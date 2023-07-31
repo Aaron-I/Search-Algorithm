@@ -93,8 +93,11 @@ else:
     print("Element found at index: ",x)
 ```
 ##Output:
+
 ![output](/Screenshot%202023-07-26%20205114.png)
+
 ![output](/Screenshot%202023-07-26%20205337.png)
+
 ![output](/Screenshot%202023-07-26%20205552.png)
 
 ## Result
