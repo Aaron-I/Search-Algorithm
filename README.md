@@ -94,11 +94,11 @@ else:
 ```
 ##Output:
 
-![output](/Screenshot%202023-07-26%20205114.png)
+![output](/screenshot1.png)
 
-![output](/Screenshot%202023-07-26%20205337.png)
+![output](/Screenshot2.png)
 
-![output](/Screenshot%202023-07-26%20205552.png)
+![output](/Screenshot3.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
